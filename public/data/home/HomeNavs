@@ -1,0 +1,85 @@
+{
+  "status": 1,
+  "msg": [
+    {
+      "_id": "5bcc2836df74cf2738d22558",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon01.png",
+      "title": "限时秒杀"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d22559",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon02.png",
+      "title": "每日清仓"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d2255a",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon03.gif",
+      "title": "品牌馆"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d2255b",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon04.png",
+      "title": "天天领红包"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d2255c",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon05.png",
+      "title": "9块9特卖"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d2255d",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon06.png",
+      "title": "充值中心"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d2255e",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon07.png",
+      "title": "秋冬上新"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d2255f",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon08.png",
+      "title": "现金签到"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d22560",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon09.png",
+      "title": "食品超市"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d22561",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon10.png",
+      "title": "电器城"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d22562",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon11.png",
+      "title": "助力享免单"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d22563",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon12.png",
+      "title": "天天半价购"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d22564",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon13.png",
+      "title": "1分抽大奖"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d22565",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon14.png",
+      "title": "电器城"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d22566",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon15.png",
+      "title": "海淘"
+    },
+    {
+      "_id": "5bcc2836df74cf2738d22567",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/nav/nav_icon16.png",
+      "title": "帮帮免费团"
+    }
+  ]
+}

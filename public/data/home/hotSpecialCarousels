@@ -1,0 +1,21 @@
+{
+  "status": 1,
+  "msg": [
+    {
+      "_id": "5bcc29f7df74cf2738d22583",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/specialPrice/special_Price_bg.png"
+    },
+    {
+      "_id": "5bcc29f7df74cf2738d22584",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/specialPrice/special_Price_1.png"
+    },
+    {
+      "_id": "5bcc29f7df74cf2738d22585",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/specialPrice/special_Price_2.png"
+    },
+    {
+      "_id": "5bcc29f7df74cf2738d22586",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/specialPrice/special_Price_3.png"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "status": 1,
+  "msg": [
+    {
+      "_id": "5bcc8b48df74cf4b98e9304c",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/carousel/1.jpg"
+    },
+    {
+      "_id": "5bcc8b48df74cf4b98e9304d",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/carousel/2.jpg"
+    },
+    {
+      "_id": "5bcc8b48df74cf4b98e9304e",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/carousel/3.jpg"
+    },
+    {
+      "_id": "5bcc8b48df74cf4b98e9304f",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/carousel/4.jpg"
+    },
+    {
+      "_id": "5bcc8b48df74cf4b98e93050",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/carousel/5.jpg"
+    },
+    {
+      "_id": "5bcc8b48df74cf4b98e93051",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/carousel/6.jpg"
+    },
+    {
+      "_id": "5bcc8b48df74cf4b98e93052",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/carousel/7.jpg"
+    },
+    {
+      "_id": "5bcc8b48df74cf4b98e93053",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/carousel/8.jpg"
+    },
+    {
+      "_id": "5bcc8b48df74cf4b98e93054",
+      "imgUrl": "http://114.116.64.123:3001/images/home/hot/carousel/9.jpg"
+    }
+  ]
+}
